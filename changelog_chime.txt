@@ -43,3 +43,10 @@ Required firmware: Last Global Firmware
 ===== 2022.11.26 =====
 - Misc improvements
 - BYEBYE Miui cam
+
+===== 2022.12.03 =====
+- CLeanup halls from trees 
+- Sync SurfaceFlinger prop from cheetah 
+- Import ANT+ blobs from stock 
+- Import camxoverride settings configuration 
+- Switch to anya kernel

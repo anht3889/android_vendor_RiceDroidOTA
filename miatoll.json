@@ -1,29 +1,28 @@
 {
-
-  "response": [
-    {
-        "maintainer": "AtharvaSwamy",
-        "oem": "XIAOMI",
-        "device": "MIATOLL",
-        "filename": "riceDroid-13.0-2022120207-miatoll-v8.6-PIXEL-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/rice-miatoll/files/8.6/FBE1/riceDroid-13.0-2022120207-miatoll-v8.6-PIXEL-OFFICIAL.zip/download",
-        "timestamp": 0000000000,
-        "md5": "7747030b79acbe789501237653a48ed2",
-        "sha256": "23047971d217898255d474ecc21f476672f884e1bd6cccd6786f7c36ca369d44",
-        "size": 1862641680,
-        "version": "8.6",
-        "buildtype": "Monthly",
-        "forum": "",
-        "gapps": "",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "https://us-dl.orangefox.download/6305587d3c05f43c193bea54",
-        "upi": "atharva1505.famc@idfcbank",
-        "telegram": "https://t.me/athizzz15k",
-        "dt": "https://github.com/athizz2005/android_device_xiaomi_miatoll-1",
-        "common-dt": "https://github.com/rayavanindra/android_device_xiaomi_sm6250-common",
-        "kernel": "https://github.com/rayavanindra/android_kernel_xiaomi_sm6250"
-    }
-  ]
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	"response": [
+		{
+			"maintainer": "AtharvaSwamy",
+			"oem": "Xiaomi",
+			"device": "miatoll",
+			"filename": "riceDroid-13.0-2022120212-miatoll-v8.6-PIXEL-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/rice-miatoll/files/8.6/FBE1/riceDroid-13.0-2022120212-miatoll-v8.6-PIXEL-OFFICIAL.zip/download",
+			"timestamp": 1669985134,
+			"md5": "33278e4fa1534f4dc911a7265dac691e",
+			"sha256": "c8493d97bbc8e7d25b0910d39f51eb4fd443785eb06dfc7ab49508b7bafbbbcf",
+			"size": 1862818661,
+			"version": "8.6",
+			"buildtype": "monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://us-dl.orangefox.download/6305587d3c05f43c193bea54",
+			"paypal": "",
+			"telegram": "https://t.me/athizzz15",
+			"dt": "https://github.com/athizz2005/android_device_xiaomi_miatoll-1",
+			"common-dt": "https://github.com/rayavanindra/android_device_xiaomi_sm6250-common",
+			"kernel": "https://github.com/rayavanindra/android_kernel_xiaomi_sm6250"
+		}
+	]
+}

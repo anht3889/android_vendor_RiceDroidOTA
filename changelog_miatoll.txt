@@ -4,11 +4,11 @@ Device: Miatoll
 Device maintainer: AtharvaSwamy
 
 ===== 2022.12.02 =====
--ONLY OTA UPDATE IF ON 8.5
--CLEAN FLASH NECESSSARY IF ON 7,7.5 AND 8.0
--USE OFOX FBE1 BETA
--Added DFC kernel default
--Under the hood changes For Optimisation and smoothness
--Fixed SD card not detecting
--Added parallel space
--Added MIUI Camera blobs for MiuiCam And LeicaCAM support(module) 
+-🟥‼️ONLY  OTA UPDATE IF ON 8.5‼️🟥
+-✅CLEAN FLASH NECESSSARY IF ON 7,7.5AND 8.0✅ 
+-🍊USE OFOX FBE1 BETA🍊
+-🐸Added DFC kernel default🐸
+-😍Under the hood changes For Optimisation and smoothness😘
+-✅Fixed SD card not detecting✅
+-Added parallel space🌝🌚
+-📸Added MIUI Camera blobs for MiuiCam And LeicaCAM support(module)📸

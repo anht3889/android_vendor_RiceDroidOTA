@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "Ayan-whyyraku",
-			"oem": "Xiaomi",
-			"device": "Redmi 9T/Poco M3",
-			"filename": "riceDroid-13.0-2022112519-chime-v8.5-GMS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/ricedroid/files/riceDroid-13.0-2022112519-chime-v8.5-GMS-OFFICIAL.zip/download",
-			"timestamp": 1669403256,
-			"md5": "8053e42dcef4d5cf1b95c4f814dee13d",
-			"sha256": "ddcabea115b0fa4c38ba597e1be1f3fb0362c4652c6df4a34cd1d614eab7ca0c",
-			"size": 1797384883,
-			"version": "8.5",
-			"buildtype": "Monthly",
-			"forum": "https://t.me/ayanot69",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/not_ayan99",
-			"dt": "https://github.com/cosm1f/device_xiaomi_chime",
-			"common-dt": "",
-			"kernel": "https://github.com/cosm1f/kernel_xiaomi_chime"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "Ayan-whyyraku",
+                        "oem": "Xiaomi",
+                        "device": "Redmi 9T/Poco M3",
+                        "filename": "riceDroid-13.0-2022120316-chime-v8.6-GMS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/ricedroid/files/riceDroid-13.0-2022120316-chime-v8.6-GMS-OFFICIAL.zip/download",
+                        "timestamp": 1670083970,
+                        "md5": "50692e9d83edcdeaf44b514e58f15d94",
+                        "sha256": "8792aba7e72f4c5626f9aa11d379f410c8da0bd91b192cd1684a3c0f140465a6",
+                        "size": 1742873433,
+                        "version": "8.6",
+                        "buildtype": "Monthly",
+                        "forum": "https://t.me/ayanot69",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/not_ayan99",
+                        "dt": "https://github.com/cosm1f/device_xiaomi_chime",
+                        "common-dt": "",
+                        "kernel": "https://github.com/cosm1f/kernel_xiaomi_chime"
+                }
+        ]
 }
